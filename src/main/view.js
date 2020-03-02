@@ -4,7 +4,8 @@
  * Licensed under MIT
  */
 
-import Hogan from "hogan.js";
+// import Hogan from "hogan.js";
+import Hogan from "./hogan";
 import dom from "../lib/dom";
 
 const STYLES_SCROLL = "border-radius: 5px 0px 0px 5px;";

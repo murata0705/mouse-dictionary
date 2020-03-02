@@ -4,7 +4,8 @@
  * Licensed under MIT
  */
 
-import Hogan from "hogan.js";
+// import Hogan from "hogan.js";
+import Hogan from "./hogan";
 
 export default class Generator {
   constructor(settings) {
